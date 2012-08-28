@@ -43,6 +43,7 @@ public class test_collect {
 		}
 		
 		System.out.printf("%s ", set);
+		System.out.println("Hey");
 				
 		
 		
