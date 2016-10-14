@@ -4,6 +4,7 @@ import java.io.*;
 # THHHISSSS ISS A TEEESST
 # THHHISSSS ISS A TEEESST
 # THHHISSSS ISS A TEEESST
+# THHHISSSS ISS A TEEESST
 public class buc {
 
 	
@@ -21,6 +22,7 @@ public class buc {
 		
 		System.out.println("Welcome "+nam);
 		System.out.println("Yo were born in "+yob);
+		System.out.println("goodbye "+nam);
 		 
 
 	}
