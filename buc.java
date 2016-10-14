@@ -2,7 +2,6 @@ import java.io.*;
 
 # THHHISSSS ISS A TEEESST
 # THHHISSSS ISS A TEEESST
-# YYYYYYYY
 public class buc {
 
 	
